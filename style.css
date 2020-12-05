@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+h1{
+    font-family: "Roboto";
+    font-weight: lighter;
+}
+h2{
+    font-family: "Open Sans";
+}
+p{
+    font-family: "Montserrat";
+    color: #ACABAF;
+}
+figcaption{
+    font-style: italic;
+}
+.p{
+    background-color: #3598DB;
+    color: #084C7E;
+}
+.p p{
+    color: white;
+}
